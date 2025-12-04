@@ -1,0 +1,57 @@
+1.Support Vector Machine
+
+Theory
+In machine learning, support-vector machines are supervised learning models with
+associated learning algorithms that analyze data used for classification and regression
+analysis. Support vector machine is highly preferred by many as it produces significant
+accuracy with less computation power. Support Vector Machine, abbreviated as SVM
+can be used for both regression and classification tasks. But, it is widely used in
+classification objectives. The objective of the support vector machine algorithm is to find
+a hyperplane in an N-dimensional space (N — the number of features) that distinctly
+classifies the data points.
+
+
+2. Multi- Linear Regression
+Theory
+Linear regression analysis is used to predict the value of a variable based on the value of
+another variable. The variable you want to predict is called the dependent variable. The
+variable you are using to predict the other variable&quot;s value is called the independent
+variable. This form of analysis estimates the coefficients of the linear equation, involving
+one or more independent variables that best predict the value of the dependent variable.
+Linear regression fits a straight line or surface that minimizes the discrepancies between
+predicted and actual output values. There are simple linear regression calculators that use
+a “least squares” method to discover the best-fit line for a set of paired data. You then
+estimate the value of X (dependent variable) from Y (independent variable).
+
+
+3. Random forest
+
+Theory
+Data visualization is crucial in the domains of data analysis and machine learning
+because it enables you to see the patterns that are buried in the data. Model interpretation
+is made possible by model visualization. With so many Python packages readily available
+now, the visualization process is now simple.
+ 
+The more popular models for supervised learning (classification and suppression) tasks
+are tree-based models like Decision Trees, Random Forests, and XGBoost. This is due to
+the fact that those models fit non-linear data, which are routinely employed in practical
+applications, quite well.
+The Decision Tree serves as the foundational paradigm for all tree-based models.
+Decision trees are used in Random Forests in variations. Here, we&#39;ll talk about four
+alternative ways to see each decision tree in a random forest. Please keep in mind that the
+techniques covered here can be used to analyze any tree-based model, not just Random
+Forests. With just a few lines of code, the Python tools sklearn, graphviz, and dtreeviz
+make it simple to construct visualizations.
+
+
+4.Burglary Alarm
+
+Theory
+You have a new burglar alarm installed at home. It is fairly reliable at detecting a
+burglary, but also responds on occasion to minor earthquakes. (This example is due to
+Judea Pearl, a resident of Los Angeles—hence the acute interest in earthquakes.) You
+also have two neighbors, John and Mary, who have promised to call you at work when
+they hear the alarm. John nearly always calls when he hears the alarm, but sometimes
+confuses the telephone ringing with the alarm and calls then, too. Mary, on the other
+hand, likes rather loud music and often misses the alarm altogether. Given the evidence
+of who has or has not called, we would like to estimate the probability of a burglary.
